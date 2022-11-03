@@ -1,3 +1,39 @@
-.main{
-    text-align: center;
+.row{
+    margin: auto;
+}
+
+.titolo{
+    height: 40px;
+    color: white;
+}
+
+.travel{
+    padding: 0px;
+    margin-left: 12px;
+    margin-right: 12px;
+    box-shadow: 4px 4px 10px grey;
+}
+
+#sea{
+    background-color: rgb(255, 193, 5);
+}
+
+#forest{
+    background-color: rgb(25, 135, 84);
+}
+
+#snow{
+    background-color: rgb(12, 202, 240);
+}
+
+#travel1{
+    color: rgb(255, 193, 5);
+}
+
+#travel2{
+    color: rgb(25, 135, 84);
+}
+
+#travel3{
+    color: rgb(12, 202, 240);
 }
