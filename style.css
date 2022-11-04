@@ -37,3 +37,9 @@
 #travel3{
     color: rgb(12, 202, 240);
 }
+
+.footer-travel{
+    border-top: solid;
+    border-top-width: 1px;
+    border-top-color: gray;
+}
